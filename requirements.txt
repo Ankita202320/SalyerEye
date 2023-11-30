@@ -1,0 +1,9 @@
+scapy
+matplotlib
+speedtest
+nmap
+psutil
+netifaces
+datetime
+tkinter
+pyqt5
