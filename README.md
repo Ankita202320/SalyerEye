@@ -16,7 +16,14 @@ A comprehensive network monitoring and analysis tool developed using Scapy libra
 ## Install dependencies
 pip install -r requirements.txt
 
-## Usage
+## Run
 python main.py
 
 ## Screenshots
+
+## Usages
+- Detected abnormal activities as soon as the attack was initiated.
+- Detected ARP spoofing attacks which is initiated by using Bettercap.
+- Accurately detected a simulated DDoS attack.
+- Real-time alerts with source IPs and attack details.
+- Real-time insights into potential network vulnerabilities.
