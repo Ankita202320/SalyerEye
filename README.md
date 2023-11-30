@@ -17,6 +17,6 @@ A comprehensive network monitoring and analysis tool developed using Scapy libra
 pip install -r requirements.txt
 
 ## Usage
-python slayereye.py
+python main.py
 
 ## Screenshots
