@@ -12,3 +12,11 @@ A comprehensive network monitoring and analysis tool developed using Scapy libra
   - Performance Optimization.
   - Measure network speed.
   - Analyze disk usage.
+
+## Install dependencies
+pip install -r requirements.txt
+
+## Usage
+python slayereye.py
+
+## Screenshots
